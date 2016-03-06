@@ -1,0 +1,135 @@
+>Kansas Jayhawks
+>>		Kansas Jayhawks
+>Lehigh Mountain Hawks
+>>>				Kansas Jayhawks
+>UNLV Rebels
+>>		UNLV Rebels
+>N. Iowa
+>>>>								Kansas Jayhawks
+>Michigan St. Spartans
+>>		Michigan St. Spartans
+>New Mexico St. Aggies
+>>>				Maryland Terrapins, Terps
+>Maryland Terrapins, Terps
+>>		Maryland Terrapins, Terps
+>Houston Cougars
+>>>>>												Kansas Jayhawks
+>Tennessee Volunteers
+>>		Tennessee Volunteers
+>San Diego St. Aztecs
+>>>				Georgetown Hoyas
+>Georgetown Hoyas
+>>		Georgetown Hoyas
+>Ohio Bobcats
+>>>>								Ohio St. Buckeyes
+>Oklahoma St. Cowboys
+>>		Georgia Tech Yellow Jackets
+>Georgia Tech Yellow Jackets
+>>>				Ohio St. Buckeyes
+>Ohio St. Buckeyes
+>>		Ohio St. Buckeyes
+>UC Santa Barbara Gauchos
+
++--------------------+
+>Syracuse Orange
+>>		Syracuse Orange
+>Vermont Catamounts
+>>>				Syracuse Orange
+>Gonzaga Bulldogs, Zags
+>>		Gonzaga Bulldogs, Zags
+>Florida St. SYMBOL: Seminoles
+>>>>								Murray St. Racers
+>Butler Bulldogs
+>>		UTEP Miners
+>UTEP Miners
+>>>				Murray St. Racers
+>Vanderbilt Commodores
+>>		Murray St. Racers
+>Murray St. Racers
+>>>>>												BYU Cougars
+>Xavier Musketeers
+>>		Xavier Musketeers
+>Minnesota Golden Gophers
+>>>				Xavier Musketeers
+>Pittsburgh Panthers
+>>		Pittsburgh Panthers
+>Oakland Golden Grizzlies
+>>>>								BYU Cougars
+>BYU Cougars
+>>		BYU Cougars
+>Florida Gators
+>>>				BYU Cougars
+>Kansas St. Wildcats
+>>		Kansas St. Wildcats
+>North Texas Mean Green
+
++--------------------+
+>Kentucky Wildcats
+>>		Kentucky Wildcats
+>East Tenn. St. Buccaneers
+>>>				Kentucky Wildcats
+>Texas Longhorns
+>>		Texas Longhorns
+>Wake Forest Demon Deacons
+>>>>								Kentucky Wildcats
+>Temple Owls
+>>		Cornell Big Red
+>Cornell Big Red
+>>>				Cornell Big Red
+>Wisconsin Badgers
+>>		Wisconsin Badgers
+>Wofford Terriers
+>>>>>												Kentucky Wildcats
+>Marquette Golden Eagles
+>>		Washington Huskies
+>Washington Huskies
+>>>				Washington Huskies
+>New Mexico Lobos
+>>		Montana Grizzlies
+>Montana Grizzlies
+>>>>								Missouri Tigers
+>Clemson Tigers
+>>		Missouri Tigers
+>Missouri Tigers
+>>>				Missouri Tigers
+>West Virginia Mountaineers
+>>		West Virginia Mountaineers
+>Morgan St. Bears
+
++--------------------+
+>Duke Blue Devils
+>>		Duke Blue Devils
+>Ark.-Pine Bluff Golden Lions
+>>>				Duke Blue Devils
+>California Golden Bears
+>>		California Golden Bears
+>Louisville Cardinals
+>>>>								Utah St. Aggies
+>Texas A&M Aggies
+>>		Utah St. Aggies
+>Utah St. Aggies
+>>>				Utah St. Aggies
+>Purdue Boilermakers
+>>		Purdue Boilermakers
+>Siena Saints
+>>>>>												Utah St. Aggies
+>Notre Dame Fighting Irish
+>>		Old Dominion Monarchs
+>Old Dominion Monarchs
+>>>				Baylor Bears
+>Baylor Bears
+>>		Baylor Bears
+>Sam Houston St. Bearkats
+>>>>								St. Mary's
+>Richmond Spiders
+>>		St. Mary's
+>St. Mary's
+>>>				St. Mary's
+>Villanova Wildcats
+>>		Villanova Wildcats
+>Robert Morris Colonials
+
++--------------------+
+
+Championsip Game: BYU Cougars vs. Utah St. Aggies
+Winner: BYU Cougars
